@@ -7,6 +7,6 @@ We use classification (resnet50).
 
 Detection (Yolo - SSD)
 
-Link for Demo : </https://www.youtube.com/watch?v=eXaX-QTInqk>
+Link for Demo : https://www.youtube.com/watch?v=eXaX-QTInqk
 
 
